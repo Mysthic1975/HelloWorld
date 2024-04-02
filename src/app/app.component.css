@@ -1,0 +1,10 @@
+.content-container {
+  margin-top: 150px; /* Anpassen an die Höhe Ihres Headers */
+  margin-left: 20px; /* Linker Rand */
+}
+
+h1 {
+  color: blue;
+  font-size: 2em;
+}
+

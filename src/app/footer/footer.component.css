@@ -1,0 +1,7 @@
+.container {
+  background-color: #f8f9fa; /* Hintergrundfarbe */
+  padding: 20px; /* Innenabstand */
+  position: fixed; /* Fixierte Position */
+  bottom: 0; /* Unten auf der Seite */
+  width: 100%; /* Volle Breite */
+}
